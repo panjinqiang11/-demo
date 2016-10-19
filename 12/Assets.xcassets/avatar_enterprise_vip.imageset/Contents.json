@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 5,
+          "height" : 6
+        },
+        "cap-insets" : {
+          "bottom" : 14,
+          "top" : 10,
+          "right" : 9,
+          "left" : 15
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "avatar_enterprise_vip@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
